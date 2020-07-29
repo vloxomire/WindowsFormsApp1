@@ -9,3 +9,10 @@ C:\0-Cursos\C#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInp
 C:\0-Cursos\C#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 C:\0-Cursos\C#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
 C:\0-Cursos\C#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Password.resources
+C:\0-Cursos\C#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1._3MultiLine.resources
+C:\0-Cursos\C#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1._4Clave10Caracteres.resources
+C:\0-Cursos\C#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1._5RadioButton.resources
+C:\0-Cursos\C#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1._6SumaRadioButton.resources
+C:\0-Cursos\C#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1._7ComboBox.resources
+C:\0-Cursos\C#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1._7ComboBox2.resources
+C:\0-Cursos\C#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1._7ComboBox3.resources

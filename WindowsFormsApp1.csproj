@@ -58,6 +58,48 @@
     <Compile Include="2Password.Designer.cs">
       <DependentUpon>2Password.cs</DependentUpon>
     </Compile>
+    <Compile Include="3MultiLine.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="3MultiLine.Designer.cs">
+      <DependentUpon>3MultiLine.cs</DependentUpon>
+    </Compile>
+    <Compile Include="4Clave10Caracteres.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="4Clave10Caracteres.Designer.cs">
+      <DependentUpon>4Clave10Caracteres.cs</DependentUpon>
+    </Compile>
+    <Compile Include="5RadioButton.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="5RadioButton.Designer.cs">
+      <DependentUpon>5RadioButton.cs</DependentUpon>
+    </Compile>
+    <Compile Include="6SumaRadioButton.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="6SumaRadioButton.Designer.cs">
+      <DependentUpon>6SumaRadioButton.cs</DependentUpon>
+    </Compile>
+    <Compile Include="7ComboBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="7ComboBox.Designer.cs">
+      <DependentUpon>7ComboBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="7ComboBox2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="7ComboBox2.Designer.cs">
+      <DependentUpon>7ComboBox2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="7ComboBox3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="7ComboBox3.Designer.cs">
+      <DependentUpon>7ComboBox3.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="1Form1.resx">
@@ -65,6 +107,27 @@
     </EmbeddedResource>
     <EmbeddedResource Include="2Password.resx">
       <DependentUpon>2Password.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="3MultiLine.resx">
+      <DependentUpon>3MultiLine.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="4Clave10Caracteres.resx">
+      <DependentUpon>4Clave10Caracteres.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="5RadioButton.resx">
+      <DependentUpon>5RadioButton.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="6SumaRadioButton.resx">
+      <DependentUpon>6SumaRadioButton.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="7ComboBox.resx">
+      <DependentUpon>7ComboBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="7ComboBox2.resx">
+      <DependentUpon>7ComboBox2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="7ComboBox3.resx">
+      <DependentUpon>7ComboBox3.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
